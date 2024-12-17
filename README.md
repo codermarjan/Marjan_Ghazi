@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syed Marjan Ghaz</h1>
-<h3 align="center">A passionate programmer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Syed Marjan Ghazi</h1>
+<h3 align="center">A passionate programmer, eager to learn in the tech industry</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marjanghazi&label=Profile%20views&color=0e75b6&style=flat" alt="codermarjan" /> </p>
